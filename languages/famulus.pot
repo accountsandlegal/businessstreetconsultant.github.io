@@ -1,0 +1,1084 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Famulus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-03 07:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: template-parts/theme-footer.php:3
+msgid " &copy;"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1599
+msgid " For highlight title use [[ hightlight ]] , for new line use <br>."
+msgstr ""
+
+#: include/aheto-shortcodes.php:650 include/aheto-shortcodes.php:661
+msgid "#"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older comments"
+msgstr ""
+
+#: include/helper-function.php:18
+msgid "(Edit)"
+msgstr ""
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A stunning visual experience for minimal loving creative. This template is a "
+"responsive and retina-ready WordPress theme with grid system layout. It is "
+"optimized for mobile touch and swipe."
+msgstr ""
+
+#: template-parts/blog-single.php:82
+msgid "About the author: "
+msgstr ""
+
+#: include/actions-config.php:335
+msgid "Accept"
+msgstr ""
+
+#: include/actions-config.php:312
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/aheto-shortcodes.php:1192
+msgid "Active"
+msgstr ""
+
+#: include/aheto-shortcodes.php:2004
+msgid "Active Item?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:704 include/aheto-shortcodes.php:719
+#: include/aheto-shortcodes.php:1286 include/aheto-shortcodes.php:1696
+msgid "Add additional button?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:161
+msgid "Add arrow to link?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1198
+msgid "Add dark overlay?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1708 include/aheto-shortcodes.php:1905
+msgid "Add icon?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1066
+msgid "Add image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:966
+msgid "Add link to arrow?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:957
+msgid "Add logo"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1272
+msgid "Add overlay to image?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:691
+msgid "Add progressbar?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:171
+msgid "Add social links?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1799 include/aheto-shortcodes.php:1871
+msgid "Add socials?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1062
+msgid "Add some text for content"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1176
+msgid "Add Video Button?"
+msgstr ""
+
+#: include/actions-config.php:55 include/actions-config.php:65
+msgid "Add widgets here."
+msgstr ""
+
+#: include/aheto-shortcodes.php:795
+msgid "Additional Button Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:799
+msgid "Additional Button Url"
+msgstr ""
+
+#: include/aheto-shortcodes.php:293 include/aheto-shortcodes.php:1865
+msgid "Address"
+msgstr ""
+
+#: include/aheto-shortcodes.php:936
+msgid "After Number"
+msgstr ""
+
+#: include/aheto-shortcodes.php:975
+msgid "After Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:979
+msgid "After Title Default Font Size?"
+msgstr ""
+
+#: include/actions-config.php:206
+msgid "Aheto"
+msgstr ""
+
+#: include/aheto-shortcodes.php:952 include/aheto-shortcodes.php:1163
+#: include/aheto-shortcodes.php:1232 include/aheto-shortcodes.php:1384
+msgid "Align"
+msgstr ""
+
+#: include/actions-config.php:315
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: template-parts/theme-header.php:30
+msgid "Appearance &gt; Menus"
+msgstr ""
+
+#: include/aheto-shortcodes.php:476 include/aheto-shortcodes.php:506
+msgid "Author name"
+msgstr ""
+
+#: include/aheto-shortcodes.php:481 include/aheto-shortcodes.php:511
+msgid "Author position"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1209
+msgid "Background Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1129 include/aheto-shortcodes.php:1205
+msgid "Banners"
+msgstr ""
+
+#: include/aheto-shortcodes.php:928
+msgid "Before Number"
+msgstr ""
+
+#: include/actions-config.php:311
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: archive.php:19 category.php:18 index.php:37
+msgid "Blog"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1168 include/aheto-shortcodes.php:1609
+msgid "Buttons Direction"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1189
+msgid "Buttons Style"
+msgstr ""
+
+#: template-parts/blog-list-category.php:49 template-parts/blog-list.php:59
+#: aheto/custom-post-types/skins/cs_skin-2.php:69
+#: aheto/custom-post-types/skins/cs_skin-3.php:69
+#: aheto/custom-post-types/skins/cs_skin-4.php:64
+msgid "by "
+msgstr ""
+
+#: comments.php:55
+msgid "Cancel"
+msgstr ""
+
+#: include/aheto-shortcodes.php:167
+msgid "Choose social links"
+msgstr ""
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgctxt "comments"
+msgid "1 comment"
+msgid_plural "<span class=\"count\">%1$s Comments</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:224
+msgid "Contact Form 7"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1856 include/aheto-shortcodes.php:1878
+msgid "Contacts"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1061
+msgid "Content"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1861
+msgid "Copyright"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1051 include/aheto-shortcodes.php:1961
+msgid "Date"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1191
+msgid "Default"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1159 include/aheto-shortcodes.php:1605
+#: include/aheto-shortcodes.php:1633 include/aheto-shortcodes.php:1886
+msgid "Description"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1794 include/aheto-shortcodes.php:1817
+msgid "Designation"
+msgstr ""
+
+#: include/aheto-shortcodes.php:471 include/aheto-shortcodes.php:501
+#: include/aheto-shortcodes.php:1786 include/aheto-shortcodes.php:1809
+msgid "Display Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:97
+msgid "Element tag for Subtitle"
+msgstr ""
+
+#: include/aheto-shortcodes.php:233 include/aheto-shortcodes.php:1143
+#: include/aheto-shortcodes.php:1559 include/aheto-shortcodes.php:1657
+msgid "Element tag for Title"
+msgstr ""
+
+#: include/actions-config.php:190
+msgid "Elementor"
+msgstr ""
+
+#: include/aheto-shortcodes.php:302 include/aheto-shortcodes.php:1898
+msgid "Email"
+msgstr ""
+
+#: comments.php:41
+msgid "Email *"
+msgstr ""
+
+#: aheto/contact-info/cs_layout2.php:74
+msgid "Email:"
+msgstr ""
+
+#: include/aheto-shortcodes.php:940
+msgid "Enable active item?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:308
+msgid "Enable dark version"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1072 include/aheto-shortcodes.php:1481
+msgid "Enable dark version?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1213
+msgid "Enable overlay for background image?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1254
+msgid "Enable overlay image for slider?"
+msgstr ""
+
+#: include/actions-config.php:333
+msgid "Enter password below:"
+msgstr ""
+
+#. Name of the theme
+msgid "Famulus"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1501
+msgid "Famulus Accordion"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1515
+msgid "Famulus Accordion Modern"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1506
+msgid "Famulus Accordion Simple"
+msgstr ""
+
+#: include/aheto-shortcodes.php:216 include/aheto-shortcodes.php:1767
+#: include/aheto-shortcodes.php:1844
+msgid "Famulus Classic"
+msgstr ""
+
+#: include/aheto-shortcodes.php:285
+msgid "Famulus Contacts"
+msgstr ""
+
+#: include/aheto-shortcodes.php:331 include/aheto-shortcodes.php:838
+msgid "Famulus Creative"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1497
+msgid "Famulus Creative slider"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1511
+msgid "Famulus Icon"
+msgstr ""
+
+#: include/aheto-shortcodes.php:742
+msgid "Famulus Inline"
+msgstr ""
+
+#: include/aheto-shortcodes.php:376
+msgid "Famulus Line"
+msgstr ""
+
+#: include/aheto-shortcodes.php:593
+msgid "Famulus Links"
+msgstr ""
+
+#: include/aheto-shortcodes.php:275 include/aheto-shortcodes.php:407
+#: include/aheto-shortcodes.php:1039 include/aheto-shortcodes.php:1468
+#: include/aheto-shortcodes.php:1928
+msgid "Famulus Modern"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1338
+msgid "Famulus Modern Simple"
+msgstr ""
+
+#: include/aheto-shortcodes.php:584
+msgid "Famulus Navbar 1"
+msgstr ""
+
+#: include/aheto-shortcodes.php:588
+msgid "Famulus Navbar 2"
+msgstr ""
+
+#: include/aheto-shortcodes.php:671
+msgid "Famulus Navigation"
+msgstr ""
+
+#: include/aheto-shortcodes.php:737
+msgid "Famulus Popup"
+msgstr ""
+
+#: include/aheto-shortcodes.php:335
+msgid "Famulus Portfolio Modern"
+msgstr ""
+
+#: include/aheto-shortcodes.php:2045
+msgid "Famulus Prev Next"
+msgstr ""
+
+#: include/aheto-shortcodes.php:40 include/aheto-shortcodes.php:372
+#: include/aheto-shortcodes.php:1092 include/aheto-shortcodes.php:1370
+#: include/aheto-shortcodes.php:1771 include/aheto-shortcodes.php:1840
+#: include/aheto-shortcodes.php:1924 include/aheto-shortcodes.php:1979
+msgid "Famulus Simple"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1519
+msgid "Famulus Simple with link"
+msgstr ""
+
+#: include/aheto-shortcodes.php:772
+msgid "Famulus Slider"
+msgstr ""
+
+#: include/aheto-shortcodes.php:448
+msgid "Famulus Slider Simple"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1742
+msgid "Famulus Style"
+msgstr ""
+
+#: include/actions-config.php:351
+#, php-format
+msgid ""
+"Famulus theme needs minimal WordPress version 4.3 and PHP 5.6<br>You are "
+"running version WordPress - %s, PHP - %s.<br>Please upgrade need module and "
+"try again."
+msgstr ""
+
+#: include/aheto-shortcodes.php:45
+msgid "Famulus Title Link"
+msgstr ""
+
+#: include/aheto-shortcodes.php:351
+msgid "Famulus Title With Search"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1401
+msgid "Famulus Video"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1096
+msgid "Famulus With Breadcrumbs"
+msgstr ""
+
+#: include/aheto-shortcodes.php:846
+msgid "Famulus With Icon"
+msgstr ""
+
+#: include/aheto-shortcodes.php:842
+msgid "Famulus With Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:855
+msgid "Famulus With Image Modern"
+msgstr ""
+
+#: include/aheto-shortcodes.php:860
+msgid "Famulus With Logo"
+msgstr ""
+
+#: include/aheto-shortcodes.php:864
+msgid "Famulus Without Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1621
+msgid "Faqs"
+msgstr ""
+
+#: include/aheto-shortcodes.php:945
+msgid "Full width image?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1422
+msgid "Gallery item image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1431
+msgid "Gallery item subtitle"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1426
+msgid "Gallery item title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1418
+msgid "Gallery items"
+msgstr ""
+
+#: 404.php:16
+msgid "Go home"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: include/actions-config.php:85
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: include/aheto-shortcodes.php:289
+msgid "Heading"
+msgstr ""
+
+#: include/aheto-shortcodes.php:249
+msgid "Hide Border"
+msgstr ""
+
+#: include/aheto-shortcodes.php:145
+msgid "Hide Line?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1446
+msgid "Higher Video?"
+msgstr ""
+
+#: aheto/banner-slider/cs_layout3.php:62
+msgid "Home"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1170 include/aheto-shortcodes.php:1611
+msgid "Horizontal"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1612
+msgid "Horizontal Space Between"
+msgstr ""
+
+#. URI of the theme
+msgid "http4://w6.themedemo.co/famulus"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/truethemes"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1639
+msgid "Icons"
+msgstr ""
+
+#: include/aheto-shortcodes.php:757
+msgid "If this empty - will be show Video Poster Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:946
+msgid "If you use this option, Image size option will not work"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1133 include/aheto-shortcodes.php:1263
+#: include/aheto-shortcodes.php:1593
+msgid "Image"
+msgstr ""
+
+#: aheto/custom-post-types/skins/cs_skin-2.php:54
+#: aheto/custom-post-types/skins/cs_skin-3.php:54
+#: aheto/custom-post-types/skins/cs_skin-4.php:49
+msgid "in World"
+msgstr ""
+
+#: include/actions-config.php:291
+msgid "Install Plugins"
+msgstr ""
+
+#: include/actions-config.php:290
+msgid "Install Required Plugins"
+msgstr ""
+
+#: include/actions-config.php:292
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: include/aheto-shortcodes.php:141
+msgid "It will work if not used custom options"
+msgstr ""
+
+#: include/aheto-shortcodes.php:134
+msgid ""
+"It will work if not used custom options. It will colorize all the content in "
+"the shortcode except Highlight "
+msgstr ""
+
+#: include/aheto-shortcodes.php:1649
+msgid "Item"
+msgstr ""
+
+#: include/aheto-shortcodes.php:961
+msgid "Item full width?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1047
+msgid "Items"
+msgstr ""
+
+#: include/aheto-shortcodes.php:486
+msgid "Just Wow!"
+msgstr ""
+
+#: searchform.php:4
+msgid "Keyword search..."
+msgstr ""
+
+#: comments.php:53
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:54
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: template-parts/blog-single.php:69
+msgid "Likes"
+msgstr ""
+
+#: include/aheto-shortcodes.php:151 include/aheto-shortcodes.php:645
+msgid "Link Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1677
+msgid "Link title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:156 include/aheto-shortcodes.php:649
+#: include/aheto-shortcodes.php:1681
+msgid "Link Url"
+msgstr ""
+
+#: include/aheto-shortcodes.php:641
+msgid "Links"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1890
+msgid "Location"
+msgstr ""
+
+#: include/aheto-shortcodes.php:491 include/aheto-shortcodes.php:516
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: include/aheto-shortcodes.php:656
+msgid "Main Link Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:660
+msgid "Main Link Url"
+msgstr ""
+
+#: include/aheto-shortcodes.php:421
+msgid "Max width for image section"
+msgstr ""
+
+#: include/aheto-shortcodes.php:615
+msgid "Menu"
+msgstr ""
+
+#: include/aheto-shortcodes.php:621
+msgid "Menu Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:850
+msgid "Modern Famulus With Icon and Number"
+msgstr ""
+
+#: include/aheto-shortcodes.php:467 include/aheto-shortcodes.php:497
+msgid "Modern Testimonials Items"
+msgstr ""
+
+#: template-parts/blog-single.php:89
+msgid "More posts by "
+msgstr ""
+
+#: include/aheto-shortcodes.php:475 include/aheto-shortcodes.php:505
+#: include/aheto-shortcodes.php:1790 include/aheto-shortcodes.php:1813
+msgid "Name"
+msgstr ""
+
+#: comments.php:40
+msgid "Name *"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: template-parts/blog-list-category.php:67 template-parts/blog-list.php:77
+msgid "Next"
+msgstr ""
+
+#: aheto/portfolio-nav/cs_layout1.php:77
+msgid "Next "
+msgstr ""
+
+#: template-parts/blog-single.php:156
+msgid "Next post"
+msgstr ""
+
+#: template-parts/blog-single.php:124 template-parts/blog-single.php:148
+msgid "No title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:932
+msgid "Number"
+msgstr ""
+
+#: 404.php:10
+msgid "OOPS!"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1218
+msgid "Overlay Color"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1259
+msgid "Overlay Image"
+msgstr ""
+
+#: 404.php:14
+msgid "Page not found"
+msgstr ""
+
+#: page.php:39 template-parts/blog-single.php:59
+msgid "Page:"
+msgstr ""
+
+#: include/actions-config.php:334
+msgid "Password:"
+msgstr ""
+
+#: include/aheto-shortcodes.php:297 include/aheto-shortcodes.php:1894
+msgid "Phone"
+msgstr ""
+
+#: aheto/contact-info/cs_layout2.php:66
+msgid "Phone:"
+msgstr ""
+
+#: include/helper-function.php:17
+msgid "Pingback: "
+msgstr ""
+
+#: template-parts/theme-header.php:30
+msgid "Please register Top Navigation from"
+msgstr ""
+
+#: include/actions-config.php:314
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/aheto-shortcodes.php:480 include/aheto-shortcodes.php:510
+#: include/aheto-shortcodes.php:1965 aheto/contents/cs_layout4.php:41
+msgid "Position"
+msgstr ""
+
+#: aheto/portfolio-nav/cs_layout1.php:49
+msgid "Prev "
+msgstr ""
+
+#: template-parts/blog-single.php:138
+msgid "Prev post"
+msgstr ""
+
+#: include/aheto-shortcodes.php:756
+msgid "Preview Image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1575
+msgid "Preview image for video"
+msgstr ""
+
+#: template-parts/blog-list-category.php:66 template-parts/blog-list.php:76
+msgid "Previous"
+msgstr ""
+
+#: functions.php:26
+msgid "Primary menu"
+msgstr ""
+
+#: include/actions-config.php:240
+msgid "Qodeblock"
+msgstr ""
+
+#: include/helper-function.php:36
+msgid "Reply"
+msgstr ""
+
+#: archive.php:7 category.php:6 index.php:25
+msgid "result found"
+msgstr ""
+
+#: archive.php:7 category.php:6 index.php:25
+msgid "results found"
+msgstr ""
+
+#: include/actions-config.php:313
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: include/actions-config.php:396
+msgid "Search.."
+msgstr ""
+
+#: include/aheto-shortcodes.php:752
+msgid "Seo title(For Video Poster Image)"
+msgstr ""
+
+#: archive.php:13 category.php:12 index.php:31
+msgid "Showing results for "
+msgstr ""
+
+#: include/actions-config.php:53
+msgid "Sidebar"
+msgstr ""
+
+#: include/actions-config.php:63
+msgid "Sidebar Additional"
+msgstr ""
+
+#: include/aheto-shortcodes.php:791
+msgid "Single Button Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1589
+msgid "Slides"
+msgstr ""
+
+#: include/actions-config.php:294
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: include/actions-config.php:305
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:299
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:309
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: archive.php:35 category.php:34 index.php:56
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: include/aheto-shortcodes.php:92
+msgid "Subitle"
+msgstr ""
+
+#: comments.php:56 include/actions-config.php:335
+msgid "Submit"
+msgstr ""
+
+#: include/aheto-shortcodes.php:971 include/aheto-shortcodes.php:1224
+#: include/aheto-shortcodes.php:2000
+msgid "Subtitle"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1782 include/aheto-shortcodes.php:1805
+msgid "Team"
+msgstr ""
+
+#: include/aheto-shortcodes.php:490 include/aheto-shortcodes.php:515
+msgid "Testimonial"
+msgstr ""
+
+#: include/aheto-shortcodes.php:485
+msgid "Testimonial title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1673
+msgid "Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:2053
+msgid "Text near \"Prev\" \"Next\" links"
+msgstr ""
+
+#: include/actions-config.php:307
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:303
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:301
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:297
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/actions-config.php:295
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/aheto-shortcodes.php:1055 include/aheto-shortcodes.php:1137
+#: include/aheto-shortcodes.php:1228 include/aheto-shortcodes.php:1267
+#: include/aheto-shortcodes.php:1555 include/aheto-shortcodes.php:1598
+#: include/aheto-shortcodes.php:1625 include/aheto-shortcodes.php:1643
+#: include/aheto-shortcodes.php:1653 include/aheto-shortcodes.php:1882
+msgid "Title"
+msgstr ""
+
+#: include/aheto-shortcodes.php:625
+msgid "Title tag"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1057
+msgid "Title with [[ hightlight ]] text."
+msgstr ""
+
+#: include/aheto-shortcodes.php:1138
+msgid ""
+"To Hightlight text insert text between: <i> Your Text Here </i>, To "
+"Hightlight text with color insert text between: [[ Your Text Here ]], For "
+"text in new line use <br> "
+msgstr ""
+
+#: include/aheto-shortcodes.php:1056
+msgid "To Hightlight text insert text between: [[ Your Text Here ]]"
+msgstr ""
+
+#. Author of the theme
+msgid "TRUETHEMES"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1629 aheto/contents/cs_layout4.php:44
+msgid "Type"
+msgstr ""
+
+#: include/aheto-shortcodes.php:118
+msgid "Use custom font for Description?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1240
+msgid "Use custom font for Highlight?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:543
+msgid "Use custom font for Position?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:998 include/aheto-shortcodes.php:2008
+msgid "Use custom font for Subtitle?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:529
+msgid "Use custom font for Testimonials?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:984
+msgid "Use custom font for Title?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:113
+msgid "Use default font for Description?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:617
+msgid "Use menu with one level items"
+msgstr ""
+
+#: include/aheto-shortcodes.php:522
+msgid "Use White Text?"
+msgstr ""
+
+#: template-parts/blog-single.php:76
+#: aheto/custom-post-types/skins/cs_skin-2.php:66
+#: aheto/custom-post-types/skins/cs_skin-3.php:66
+#: aheto/custom-post-types/skins/cs_skin-4.php:61
+msgid "user"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1171 include/aheto-shortcodes.php:1613
+msgid "Vertical"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1576 include/aheto-shortcodes.php:1584
+msgid "Video Content"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1438
+msgid "Video image"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1185 include/aheto-shortcodes.php:1442
+msgid "Video Link"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1181
+msgid "Video Title"
+msgstr ""
+
+#: comments.php:42
+msgid "Website"
+msgstr ""
+
+#: include/aheto-shortcodes.php:139
+msgid "White Highlight Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:132 include/aheto-shortcodes.php:392
+msgid "White Text"
+msgstr ""
+
+#: include/aheto-shortcodes.php:1277
+msgid "White text?"
+msgstr ""
+
+#: include/aheto-shortcodes.php:524
+msgid "Works only for Name and Position"
+msgstr ""
+
+#: include/actions-config.php:256
+msgid "WP Datepicker"
+msgstr ""
+
+#: comments.php:48
+msgid "Your comment*"
+msgstr ""
